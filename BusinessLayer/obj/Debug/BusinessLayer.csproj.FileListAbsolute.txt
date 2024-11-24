@@ -1,0 +1,9 @@
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\BanakManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
