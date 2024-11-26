@@ -25,9 +25,10 @@ namespace DataLayer
                 if (reader.Read())
                 {
 
-                    isFound = true; 
-                    PersonID = (int)reader["PersonID"];
+                    isFound = true;
                     ApplicationID = (int)reader["ApplicationID"];
+                    PersonID = (int)reader["PersonID"];
+                    
                     LocalDeposit = (decimal)reader["LocalDeposit"];
 
                     if (reader["EuroDeposit"] != DBNull.Value)

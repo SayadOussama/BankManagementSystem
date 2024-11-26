@@ -105,7 +105,7 @@ namespace BankManagement.Transations
             if (rbLocal.Checked)
             {
                 if (ctrlClientWithFIlter1.SelectedClientAccountInfo.LocalDeposit  >= int.Parse(txtAmount.Text.Trim().ToString()) + _TransationTypes.TransationFees) { 
-                    ctrlClientWithFIlter1.SelectedClientAccountInfo.LocalDeposit-=   int.Parse(txtAmount.Text.Trim().ToString()) + _TransationTypes.TransationFees ;
+                    ctrlClientWithFIlter1.SelectedClientAccountInfo.LocalDeposit -=   int.Parse(txtAmount.Text.Trim().ToString()) + _TransationTypes.TransationFees ;
                     ctrlClientWithFIlter1.SelectedClientAccountInfo.Save();
                     MessageBox.Show("Withdrow Process Done With Success your Balance Now " + ctrlClientWithFIlter1.SelectedClientAccountInfo.LocalDeposit.ToString(), "WithDrow", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     ctrlClientWithFIlter1.LoadAccountInfoInfo(ctrlClientWithFIlter1.AccountID);

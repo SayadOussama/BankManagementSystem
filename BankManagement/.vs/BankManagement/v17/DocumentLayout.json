@@ -3,31 +3,52 @@
   "WorkspaceRootPath": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F10EA598-A85C-43B4-805A-DAE47D014280}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\datalayer\\clsdataclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7805733-136E-42FB-9FD0-D72EADAEF79A}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\businesslayer\\clsclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7805733-136E-42FB-9FD0-D72EADAEF79A}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\businesslayer\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7805733-136E-42FB-9FD0-D72EADAEF79A}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\businesslayer\\clsapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmaddupdateclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmaddupdateclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmaddupdateclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmaddupdateclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\bankmanagement\\applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\transations\\frmaddwithdrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:transations\\frmaddwithdrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmapplicationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\users\\frmchangepassworduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:users\\frmchangepassworduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmrenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmrenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\clientaccount\\ctrlclientwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,28 +59,20 @@
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:clientaccount\\ctrlclientwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\transations\\frmaddwithdrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:transations\\frmaddwithdrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:clientaccount\\ctrlclientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\transations\\frmaddwithdrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:transations\\frmaddwithdrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmrenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmrenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmrenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmrenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\applictions\\frmaddupdateclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:applictions\\frmaddupdateclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BankManagement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -94,9 +107,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{F10EA598-A85C-43B4-805A-DAE47D014280}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\datalayer\\clsdataapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7805733-136E-42FB-9FD0-D72EADAEF79A}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\businesslayer\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -219,9 +229,6 @@
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:classglobal\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7805733-136E-42FB-9FD0-D72EADAEF79A}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\businesslayer\\clsapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\classglobal\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:classglobal\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -230,19 +237,12 @@
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:classglobal\\clsdateformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F10EA598-A85C-43B4-805A-DAE47D014280}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\datalayer\\clsdataclientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\people\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:people\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\users\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:users\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\users\\frmchangepassworduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|solutionrelative:users\\frmchangepassworduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\users\\frmaddupdateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -280,9 +280,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Real Life Projects with C# windowsform\\DataLayer\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB534374-F4B4-4759-87EA-5E6F433FD4B7}|BankManagement.csproj|d:\\real life projects with c# windowsform\\banakmanagement\\bankmanagement\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -292,17 +289,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "frmApplicationManagment.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmApplicationManagment.cs",
               "RelativeDocumentMoniker": "Applictions\\frmApplicationManagment.cs",
               "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmApplicationManagment.cs",
               "RelativeToolTip": "Applictions\\frmApplicationManagment.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAYwI0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAlwIwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T19:41:44.194Z",
               "IsPinned": true,
@@ -321,166 +318,73 @@
               "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ctrlClientDetails.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs",
-              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientDetails.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs",
-              "RelativeToolTip": "ClientAccount\\ctrlClientDetails.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAQwF0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:33:54.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ctrlClientWithFIlter.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs",
-              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientWithFIlter.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs",
-              "RelativeToolTip": "ClientAccount\\ctrlClientWithFIlter.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:29:47.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs [Design]",
-              "RelativeToolTip": "Main.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T12:50:42.916Z",
-              "EditorCaption": " [Design]"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs",
-              "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAAALIAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T12:53:13.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmApplicationManagment.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmApplicationManagment.cs",
-              "RelativeDocumentMoniker": "Applictions\\frmApplicationManagment.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmApplicationManagment.cs [Design]",
-              "RelativeToolTip": "Applictions\\frmApplicationManagment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T19:41:38.548Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsClientAccount.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsClientAccount.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsClientAccount.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsClientAccount.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsClientAccount.cs",
-              "ViewState": "AgIAAEoBAAAAAAAAAAAuwG0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:59:25.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ctrlClientDetails.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs",
-              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientDetails.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs [Design]",
-              "RelativeToolTip": "ClientAccount\\ctrlClientDetails.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:22:14.026Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ctrlClientWithFIlter.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs",
-              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientWithFIlter.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs [Design]",
-              "RelativeToolTip": "ClientAccount\\ctrlClientWithFIlter.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:29:44.237Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "frmAddUpdateClientAccount.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmAddUpdateClientAccount.cs",
               "RelativeDocumentMoniker": "Applictions\\frmAddUpdateClientAccount.cs",
               "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmAddUpdateClientAccount.cs",
               "RelativeToolTip": "Applictions\\frmAddUpdateClientAccount.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACABAAAAAAAAAAAhwCkBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T15:40:20.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmAddWithdrow.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs",
-              "RelativeDocumentMoniker": "Transations\\frmAddWithdrow.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs [Design]",
-              "RelativeToolTip": "Transations\\frmAddWithdrow.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "clsApplicationTypes.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplicationTypes.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsApplicationTypes.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplicationTypes.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsApplicationTypes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawC8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:23:43.93Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmAddWithdrow.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs",
-              "RelativeDocumentMoniker": "Transations\\frmAddWithdrow.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs",
-              "RelativeToolTip": "Transations\\frmAddWithdrow.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAQwFEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:23:45.824Z",
+              "WhenOpened": "2024-06-04T11:00:08.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmRenew.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs",
-              "RelativeDocumentMoniker": "Applictions\\frmRenew.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs [Design]",
-              "RelativeToolTip": "Applictions\\frmRenew.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsApplications.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplications.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsApplications.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAApwGkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T14:23:57.789Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-04T10:59:03.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "clsClientAccount.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsClientAccount.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsClientAccount.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsClientAccount.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsClientAccount.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAhwHEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:59:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataClientAccount.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataClientAccount.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataClientAccount.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataClientAccount.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataClientAccount.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAawHQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:59:37.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "frmAddUpdateClientAccount.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmAddUpdateClientAccount.cs",
               "RelativeDocumentMoniker": "Applictions\\frmAddUpdateClientAccount.cs",
@@ -492,15 +396,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BankManagement",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\BankManagement.csproj",
-              "RelativeDocumentMoniker": "BankManagement.csproj",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\BankManagement.csproj",
-              "RelativeToolTip": "BankManagement.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-15T13:20:52.575Z",
-              "EditorCaption": ""
+              "DocumentIndex": 65,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BusinessLayer\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\..\\BusinessLayer\\clsApplications.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BusinessLayer\\clsApplications.cs",
+              "RelativeToolTip": "..\\..\\BusinessLayer\\clsApplications.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:31:17.491Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -523,19 +434,6 @@
               "RelativeToolTip": "..\\..\\BusinessLayer\\clsApplicationTypes.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T16:34:24.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmRenew.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs",
-              "RelativeDocumentMoniker": "Applictions\\frmRenew.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs",
-              "RelativeToolTip": "Applictions\\frmRenew.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T20:36:57.447Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -572,17 +470,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "clsApplications.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BusinessLayer\\clsApplications.cs",
-              "RelativeDocumentMoniker": "..\\..\\BusinessLayer\\clsApplications.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BusinessLayer\\clsApplications.cs",
-              "RelativeToolTip": "..\\..\\BusinessLayer\\clsApplications.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T18:31:17.491Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 75,
               "Title": "clsDataAccessSettings.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\DataLayer\\clsDataAccessSettings.cs",
@@ -605,7 +492,156 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAhwNAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:53:13.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmApplicationManagment.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmApplicationManagment.cs",
+              "RelativeDocumentMoniker": "Applictions\\frmApplicationManagment.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmApplicationManagment.cs [Design]",
+              "RelativeToolTip": "Applictions\\frmApplicationManagment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:41:38.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:50:42.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAddWithdrow.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs",
+              "RelativeDocumentMoniker": "Transations\\frmAddWithdrow.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs",
+              "RelativeToolTip": "Transations\\frmAddWithdrow.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAMwGsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:23:45.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmChangePasswordUser.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmChangePasswordUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmChangePasswordUser.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmChangePasswordUser.cs",
+              "RelativeToolTip": "Users\\frmChangePasswordUser.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAlwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:07:27.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmRenew.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs",
+              "RelativeDocumentMoniker": "Applictions\\frmRenew.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs",
+              "RelativeToolTip": "Applictions\\frmRenew.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwDoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:36:57.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ctrlClientWithFIlter.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs",
+              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientWithFIlter.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs [Design]",
+              "RelativeToolTip": "ClientAccount\\ctrlClientWithFIlter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:29:44.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ctrlClientWithFIlter.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs",
+              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientWithFIlter.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientWithFIlter.cs",
+              "RelativeToolTip": "ClientAccount\\ctrlClientWithFIlter.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:29:47.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ctrlClientDetails.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs",
+              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientDetails.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs",
+              "RelativeToolTip": "ClientAccount\\ctrlClientDetails.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwF0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:33:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ctrlClientDetails.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs",
+              "RelativeDocumentMoniker": "ClientAccount\\ctrlClientDetails.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\ctrlClientDetails.cs [Design]",
+              "RelativeToolTip": "ClientAccount\\ctrlClientDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:22:14.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAddWithdrow.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs",
+              "RelativeDocumentMoniker": "Transations\\frmAddWithdrow.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmAddWithdrow.cs [Design]",
+              "RelativeToolTip": "Transations\\frmAddWithdrow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:23:43.93Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "frmRenew.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs",
+              "RelativeDocumentMoniker": "Applictions\\frmRenew.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Applictions\\frmRenew.cs [Design]",
+              "RelativeToolTip": "Applictions\\frmRenew.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:23:57.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BankManagement",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\BankManagement.csproj",
+              "RelativeDocumentMoniker": "BankManagement.csproj",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\BankManagement.csproj",
+              "RelativeToolTip": "BankManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-15T13:20:52.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "frmShowUserInfo.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmShowUserInfo.cs",
               "RelativeDocumentMoniker": "Users\\frmShowUserInfo.cs",
@@ -616,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "frmUserManagement.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmUserManagement.cs",
               "RelativeDocumentMoniker": "Users\\frmUserManagement.cs",
@@ -627,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "frmTransferLocalAndEuro.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmTransferLocalAndEuro.cs",
               "RelativeDocumentMoniker": "Transations\\frmTransferLocalAndEuro.cs",
@@ -638,19 +674,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "frmChangePasswordUser.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmChangePasswordUser.cs",
               "RelativeDocumentMoniker": "Users\\frmChangePasswordUser.cs",
               "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmChangePasswordUser.cs [Design]",
               "RelativeToolTip": "Users\\frmChangePasswordUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T23:00:04.119Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-20T23:00:04.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "frmAddUpdateUser.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmAddUpdateUser.cs",
               "RelativeDocumentMoniker": "Users\\frmAddUpdateUser.cs",
@@ -661,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ctrlPersonCard.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\ctrlPersonCard.cs",
               "RelativeDocumentMoniker": "People\\ctrlPersonCard.cs",
@@ -673,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ctrlPersonCard.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\ctrlPersonCard.cs",
               "RelativeDocumentMoniker": "People\\ctrlPersonCard.cs",
@@ -684,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "frmAddUpdatePerson.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\frmAddUpdatePerson.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
@@ -696,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "frmTransactionList.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmTransactionList.cs",
               "RelativeDocumentMoniker": "Transations\\frmTransactionList.cs",
@@ -707,19 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "clsApplications.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplications.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsApplications.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplications.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsApplications.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAApwGkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:59:03.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "clsDataApplications.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataApplications.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataApplications.cs",
@@ -731,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "frmClientManagement.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmClientManagement.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmClientManagement.cs",
@@ -742,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "frmShowClientDetails.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmShowClientDetails.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmShowClientDetails.cs",
@@ -753,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "frmTransactionHistortList.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Transations\\frmTransactionHistortList.cs",
               "RelativeDocumentMoniker": "Transations\\frmTransactionHistortList.cs",
@@ -764,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "frmFindAccount.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmFindAccount.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmFindAccount.cs",
@@ -775,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "frmShowPersonInfo.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\frmShowPersonInfo.cs",
               "RelativeDocumentMoniker": "People\\frmShowPersonInfo.cs",
@@ -786,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "frmMangePeople.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\frmMangePeople.cs",
               "RelativeDocumentMoniker": "People\\frmMangePeople.cs",
@@ -797,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "frmFindPerson.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\frmFindPerson.cs",
               "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
@@ -808,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "frmAddUpdatePerson.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\frmAddUpdatePerson.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
@@ -819,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "frmAddUpdateUser.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmAddUpdateUser.cs",
               "RelativeDocumentMoniker": "Users\\frmAddUpdateUser.cs",
@@ -831,7 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "frmClientManagement.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmClientManagement.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmClientManagement.cs",
@@ -843,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "clsDataPerson.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataPerson.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataPerson.cs",
@@ -855,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "frmShowClientDetails.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmShowClientDetails.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmShowClientDetails.cs",
@@ -867,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "clsCountries.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsCountries.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCountries.cs",
@@ -879,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "frmFindAccount.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmFindAccount.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmFindAccount.cs",
@@ -891,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "clsDataAccessSettings.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataAccessSettings.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataAccessSettings.cs",
@@ -903,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "clsUsers.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsUsers.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsUsers.cs",
@@ -915,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "clsPeople.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsPeople.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPeople.cs",
@@ -927,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "clsDataCountries.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataCountries.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataCountries.cs",
@@ -939,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "BusinessLayer",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\BusinessLayer.csproj",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
@@ -950,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "clsDataUsers.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataUsers.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataUsers.cs",
@@ -962,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "ctrlUserCard.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\ctrlUserCard.cs",
               "RelativeDocumentMoniker": "Users\\ctrlUserCard.cs",
@@ -974,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "frmUserManagement.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmUserManagement.cs",
               "RelativeDocumentMoniker": "Users\\frmUserManagement.cs",
@@ -986,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "ctrlPersonCardwithFilter.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\ctrlPersonCardwithFilter.cs",
               "RelativeDocumentMoniker": "People\\ctrlPersonCardwithFilter.cs",
@@ -997,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "ctrlUserCard.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\ctrlUserCard.cs",
               "RelativeDocumentMoniker": "Users\\ctrlUserCard.cs",
@@ -1008,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "Login\\frmLogin.cs",
@@ -1020,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "Login\\frmLogin.cs",
@@ -1031,7 +1054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "clsGlobal.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClassGlobal\\clsGlobal.cs",
               "RelativeDocumentMoniker": "ClassGlobal\\clsGlobal.cs",
@@ -1043,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "clsDateFormat.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClassGlobal\\clsDateFormat.cs",
               "RelativeDocumentMoniker": "ClassGlobal\\clsDateFormat.cs",
@@ -1055,31 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "clsApplicationTypes.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplicationTypes.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsApplicationTypes.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BusinessLayer\\clsApplicationTypes.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsApplicationTypes.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAawC8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T11:00:08.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "clsDataClientAccount.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataClientAccount.cs",
-              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataClientAccount.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\DataLayer\\clsDataClientAccount.cs",
-              "RelativeToolTip": "..\\DataLayer\\clsDataClientAccount.cs",
-              "ViewState": "AQIAACEBAAAAAAAAAAAhwDIBAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:59:37.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "frmFindAccount.Designer.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClientAccount\\frmFindAccount.Designer.cs",
               "RelativeDocumentMoniker": "ClientAccount\\frmFindAccount.Designer.cs",
@@ -1091,7 +1090,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ctrlPersonCardwithFilter.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\ctrlPersonCardwithFilter.cs",
               "RelativeDocumentMoniker": "People\\ctrlPersonCardwithFilter.cs",
@@ -1103,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "frmShowUserInfo.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmShowUserInfo.cs",
               "RelativeDocumentMoniker": "Users\\frmShowUserInfo.cs",
@@ -1115,20 +1114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "frmChangePasswordUser.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmChangePasswordUser.cs",
-              "RelativeDocumentMoniker": "Users\\frmChangePasswordUser.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmChangePasswordUser.cs",
-              "RelativeToolTip": "Users\\frmChangePasswordUser.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAhwIAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T23:07:27.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "frmAddUpdateUser.resx",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\Users\\frmAddUpdateUser.resx",
               "RelativeDocumentMoniker": "Users\\frmAddUpdateUser.resx",
@@ -1151,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "frmFindPerson.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\People\\frmFindPerson.cs",
               "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
@@ -1163,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "clsUtil.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\BanakManagement\\BankManagement\\ClassGlobal\\clsUtil.cs",
               "RelativeDocumentMoniker": "ClassGlobal\\clsUtil.cs",

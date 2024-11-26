@@ -312,12 +312,14 @@
             // 
             // txtLocalDeposit
             // 
+            this.txtLocalDeposit.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.txtLocalDeposit.Location = new System.Drawing.Point(408, 199);
             this.txtLocalDeposit.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtLocalDeposit.MaxLength = 50;
             this.txtLocalDeposit.Name = "txtLocalDeposit";
             this.txtLocalDeposit.Size = new System.Drawing.Size(257, 28);
             this.txtLocalDeposit.TabIndex = 131;
+            this.txtLocalDeposit.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtLocalDeposit_KeyPress);
             this.txtLocalDeposit.Validating += new System.ComponentModel.CancelEventHandler(this.txtLocalDeposit_Validating);
             // 
             // label1
@@ -350,6 +352,7 @@
             this.txtEuroDeposit.Name = "txtEuroDeposit";
             this.txtEuroDeposit.Size = new System.Drawing.Size(258, 28);
             this.txtEuroDeposit.TabIndex = 132;
+            this.txtEuroDeposit.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtEuroDeposit_KeyPress);
             this.txtEuroDeposit.Validating += new System.ComponentModel.CancelEventHandler(this.txtEuroDeposit_Validating);
             // 
             // pictureBox8

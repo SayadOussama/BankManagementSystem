@@ -138,7 +138,8 @@ namespace BankManagement.Applictions
         {
             int ApplicationID = (int)dgvApplicationManagement.CurrentRow.Cells[0].Value;
             int AccountID = clsClientAccount.GetAccountIDByApplicationID(ApplicationID);
-            if(clsClientAccount.GetFindInfoByAccountID(ApplicationID).EuroDeposit <0)
+            clsClientAccount CurrentAccount = clsClientAccount.GetAccountInfoByApplicationID(ApplicationID);
+            if (CurrentAccount.EuroDeposit == -1)
            
             {
                 frmAddUpdateClientAccount frm = new frmAddUpdateClientAccount(AccountID, clsApplicationTypes.enApplicationType.UpdateLocalAccountToLocalAndEuroAccount);
@@ -158,6 +159,7 @@ namespace BankManagement.Applictions
             clsClientAccount Account = clsClientAccount.GetAccountInfoByApplicationID(ApplicationID);
             if(!Account.IsActive)
             {
+
                 MessageBox.Show("Account Must Active to Renew Account", "Account Not Active",MessageBoxButtons.OK, MessageBoxIcon.Information); 
                 return;
             }

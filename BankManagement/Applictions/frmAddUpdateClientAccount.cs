@@ -11,6 +11,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static BusinessLayer.clsApplicationTypes;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace BankManagement.Applictions
@@ -32,6 +33,7 @@ namespace BankManagement.Applictions
             InitializeComponent();
             _Mode = enMode.AddNew;
             _ApplicationTypeID = ApplicationTypeID; 
+            
         }
         public frmAddUpdateClientAccount(int AccountID , clsApplicationTypes.enApplicationType ApplicationTypeID)
         {
@@ -111,7 +113,7 @@ namespace BankManagement.Applictions
             lblCreationDate.Text = _ClientAccount.CreationDate.ToShortDateString();
             txtLocalDeposit.Text = _ClientAccount.LocalDeposit.ToString();
             txtEuroDeposit.Text = _ClientAccount.EuroDeposit.ToString();
-            if(_ClientAccount.EuroDeposit != -1)
+            if( _ApplicationTypeID == enApplicationType.UpdateLocalAccountToLocalAndEuroAccount)
                 txtEuroDeposit.Enabled = true;
             else 
                 txtEuroDeposit.Enabled = false;
@@ -138,6 +140,7 @@ namespace BankManagement.Applictions
             _Applications.CreatedByUserID = clsGlobal.CurrentUser.UserID;
             if (_Applications.Save())
             {
+                
                 _ClientAccount.PersonID = _Applications.PersonID;
                 _ClientAccount.ApplicationID = _Applications.ApplicationID;
                 _ClientAccount.LocalDeposit = decimal.Parse(txtLocalDeposit.Text);
@@ -179,8 +182,29 @@ namespace BankManagement.Applictions
                 CreateClientAccountFirstTime();
                 return;
             }
+            if (_Mode == enMode.AddNew && _ApplicationTypeID == clsApplicationTypes.enApplicationType.UpdateLocalAccountToLocalAndEuroAccount)
+            {
+                clsClientAccount currentClientAccount = clsClientAccount.GetAccountInfoByPersonID(ctrlPersonCardwithFilter1.SelectPersonInfo.PersonID);
+                if (currentClientAccount != null)
+                    if (currentClientAccount._ApplicationInfo._AppTypeInfo.ID != clsApplicationTypes.enApplicationType.UpdateLocalAccountToLocalAndEuroAccount)
+                    {
+                        int OldApplicationID = currentClientAccount.ApplicationID;
+                        // in this case we need Only to Create new Application 
+                        _Applications = new clsApplications();
+                        _Applications.PersonID = ctrlPersonCardwithFilter1.PersonID;
+                        _Applications.ApplicationType = (int)_ApplicationTypeID;
+                        _Applications.ApplicationDate = DateTime.Now;
+                        // _Applications.CreatedByUserID = CurrentUser
+                        _Applications.CreatedByUserID = clsGlobal.CurrentUser.UserID;
+                        _Applications.Save();
+                        //Replace Account ApplicationID By new Applications AppID 
+                        _ClientAccount.ApplicationID = _Applications.ApplicationID;
+                        //will the Delete the Local Account and Replace with New Account with New Type
+                        clsApplications.DeleteApplicationID(OldApplicationID);
+                    }
+            }
             //for Update Local to Local and Euro Account  the First Time 
-            if(_Mode == enMode.Update && _ApplicationTypeID == clsApplicationTypes.enApplicationType.UpdateLocalAccountToLocalAndEuroAccount && _ClientAccount.EuroDeposit==-1 )
+            if (_Mode == enMode.Update && _ApplicationTypeID == clsApplicationTypes.enApplicationType.UpdateLocalAccountToLocalAndEuroAccount && _ClientAccount.EuroDeposit==-1 )
                 {
                 //Note
                 //to Update account Local we need To Delete the Old Application And Replace with New Application 
@@ -198,6 +222,7 @@ namespace BankManagement.Applictions
                 _ClientAccount.ApplicationID = _Applications.ApplicationID;
                 clsApplications.DeleteApplicationID(OldApplicationID);
             }
+           
             // en Update Mode 
             _ClientAccount.LocalDeposit = decimal.Parse(txtLocalDeposit.Text);
             if (txtEuroDeposit.Enabled==true)
@@ -255,13 +280,51 @@ namespace BankManagement.Applictions
                 return;
             }
             //incase of add new mode.
+
             if (ctrlPersonCardwithFilter1.PersonID != -1)
             {
+                //if the UpdateLocalAccountToLocalAndEuroAccount sended with out parameters
+                if (((_Mode == enMode.AddNew) && (_ApplicationTypeID == clsApplicationTypes.enApplicationType.UpdateLocalAccountToLocalAndEuroAccount)))
+                {
+                    _ClientAccount = clsClientAccount.GetAccountInfoByPersonID(ctrlPersonCardwithFilter1.PersonID);
+                    if (_ClientAccount == null)
+                    {
+                        MessageBox.Show("Client With Person ID " + ctrlPersonCardwithFilter1.PersonID + " Not Exist");
+                        this.Close();
+                        return;
+                    }
+                    if (_ClientAccount.EuroDeposit >= 0)
+                    {
+                        MessageBox.Show("Client he's allready Update his Account with Person ID  " + ctrlPersonCardwithFilter1.PersonID );
+                        return;
+                    }
+                    lblAccountID.Text = _ClientAccount.AccountID.ToString();
+                    lblApplicationID.Text = _ClientAccount.ApplicationID.ToString();
+                    lblCreationDate.Text = _ClientAccount.CreationDate.ToShortDateString();
+                    txtLocalDeposit.Text = _ClientAccount.LocalDeposit.ToString();
+                    txtEuroDeposit.Text = _ClientAccount.EuroDeposit.ToString();
+                   
+                        txtEuroDeposit.Enabled = true;
+                   
+                    lblExpirationDate.Text = _ClientAccount.ExpirationDate.ToShortDateString();
+                    chkIsActive.Checked = _ClientAccount.IsActive;
+                    ctrlPersonCardwithFilter1.LoadPersonInfo(_ClientAccount.PersonID);
+                    ctrlPersonCardwithFilter1.FilterEnable = false;
+                    
+                    btnSave.Enabled = true;
+                    //Unlock the Login Tab
+                    tpCreateAccountClient.Enabled = true;
+                    //Go to the Next Tab
+                    tcUserInfo.SelectedTab = tcUserInfo.TabPages["tpCreateAccountClient"];
+                    return;
+
+                }
                 if (clsClientAccount.IsAccountExistInfoByPersonID(ctrlPersonCardwithFilter1.PersonID))
                 {
                     MessageBox.Show("Selected Person already has a Account Client , choose another one.", "Select another Person", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     ctrlPersonCardwithFilter1.FilterFocus();
                 }
+
                 else
                 {
                     btnSave.Enabled = true;
@@ -280,5 +343,14 @@ namespace BankManagement.Applictions
             }
         }
 
+        private void txtLocalDeposit_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void txtEuroDeposit_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
     }
     }
